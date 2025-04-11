@@ -1,7 +1,16 @@
 name: Mukesh Jalwal
 contact:
   linkedin: https://www.linkedin.com/in/mukeshjalwal
-  github: https://mukeshjalwal.github.io/great-software-engineer
+  github: https://github.com/mukeshjalwal
+
+projects:
+  - name: Containers
+    url: https://mukeshjalwal.github.io/great-software-engineer
+    description: Full stack container bootcamp.
+  - name: Kubernetes
+    url: https://github.com/mukeshjalwal/DockerKubernetesAzure
+    description: Full stack Kubernetes bootcamp.
+
 summary: >
   Mukesh is a qualified leader and proficient DevOps and Cloud engineer with skills across multiple environments in Infrastructure and Hosting platforms. 
   With over 22+ years of experience in the industry, he has worked in the public, private and federal sectors and communicates well across all levels of the business. 
@@ -36,7 +45,7 @@ accomplishments:
 
 experience:
   - title: NCSR Migration – Telstra Health – Federal
-    company: Versent
+    company: Versent Pty Ltd
     location: Melbourne, Australia
     duration: Jan 2024 – Mar 2025
     skills: [Terraform, Github, Azure DevOps, Azure pipelines, Azure Repos, Site to Site VPN, Transit Gateway, AWS transfer family, AD connector service]
@@ -44,7 +53,7 @@ experience:
       I designed and built secure networking layers in a highly regulated cloud environment, adhering to IRAP assessment requirements prior to the agreement to operate (ATO). My key deliverables included implementing isolated virtual networks for different workloads, configuring firewalls, and integrating essential security tools such as image hardening, ingress/egress protection, and strict routing policies. I provisioned F5 ASM, FortiGate, and WAF tools to enhance security, further locking down traffic using NSGs and ASGs. All these solutions were deployed using Infrastructure-as-Code (IaC) with Terraform and automated through Azure DevOps, ensuring compliance, scalability, and operational efficiency.
 
   - title: Noumi Hybrid Cloud
-    company: Versent
+    company: Versent Pty Ltd
     location: Melbourne, Australia
     duration: Jul 2023 – Jan 2024
     skills: [AWS, Active Directory, DNS, VMWare, Site to Site VPN]
@@ -52,7 +61,7 @@ experience:
       In my engagement with Noumi, I played a key role in extending their on-premises data center to the cloud, enabling a seamless hybrid cloud model. I extended their existing Active Directory (AD) to the cloud with synchronous replication, ensuring consistent identity and access management across envi-ronments. Additionally, I implemented secure DNS management to maintain reliable name resolution. To facilitate a smooth data transition, I leveraged AWS native cloud migration services and data migration tools, including in-stalling agents on-premises to discover and migrate workloads efficiently. My approach ensured minimal downtime, secure data transfer, and a scalable hybrid cloud infrastructure aligned with business needs.
 
   - title: TMR (Department of Transport and Main Roads) – Government – Cost Optimisations
-    company: Versent
+    company: Versent Pty Ltd
     location: Melbourne, Australia
     duration: May 2023 – Jul 2023
     skills: [AWS Billing, Cost Explorer, AWS CLI]
@@ -60,7 +69,7 @@ experience:
       I conducted a comprehensive analysis of cloud resource utilisation to identify cost-saving opportunities. Using AWS native tools such as Cost Explorer and AWS Billing, I detected unutilised capacities, over-provisioned resources, and outdated backups consuming unnecessary storage. By implementing rightsizing strategies, decommissioning idle instances, and optimizing storage allocation, I successfully reduced cloud expenditure while maintaining operational efficiency. Additionally, I provided recommendations on reserved instances and auto-scaling configurations to further enhance cost efficiency without compromising.
 
   - title: APA Group Security & CIS Benchmarking
-    company: Versent
+    company: Versent Pty Ltd
     location: Melbourne, Australia
     duration: Apr 2023
     skills: [AWS Security, Trust Advisor]
@@ -68,7 +77,7 @@ experience:
       I contributed to the Landing Zone Accelerator initiative, where I automated cloud setup steps, enabling a rapid and secure cloud environment. My work involved:Automating the provisioning of networking, security controls, IAM policies, and governance frameworks using Terraform and Azure DevOps. Ensuring compliance with security best practices by enforcing CIS bench-marks and cloud security standards. Developing technical documentation, build guides, and standard operating procedures (SOPs) to ensure main-tainability and operational consistency.
 
   - title: MFA implementation with PingOne – Westpac – Banking
-    company: Versent
+    company: Versent Pty Ltd
     location: Melbourne, Australia
     duration: Jul 2022 – Mar 2023
     skills: [Ping Access, Ping Federate, Ping Directory, Ping DataSync, PingOne Advanced Services (P1AS), Jenkins, Bitbucket, Vault, CyberArk safe]
@@ -76,7 +85,7 @@ experience:
       Mukesh worked with Identity engineers to implement a PingOne solution for the bank to provide MFA services for a banking application. Strict security re-quirements within the bank required stakeholder engagement to meet the bank’s requirements while also delivering a working product. Mukesh worked with the Cloud, DevOps and Security teams, as well as with AWS engineers, to deploy and test the platform, as well as providing handover sessions and documentation.
 
   - title: MQ Transformation @ ANZ
-    company: Versent
+    company: Versent Pty Ltd
     location: Melbourne, Australia
     duration: Oct 2021 – Jul 2022
     skills: [Puppet Enterprise, IBM MQ, IBM Sterling Connect Direct, JIRA, Confluence, BitBucket, Solaris, AIX, RedHat]
@@ -93,6 +102,7 @@ experience:
 
   - title: Monitoring & Observability (Splunk & AppDynamics)
     company: National Australia Bank
+    location: Melbourne, Australia
     duration: Feb 2018 – Mar 2021
     skills: [Ansible, Terraform, Splunk, Appdynamics, JIRA, Confluence, Artifactory, Remedy, Jenkins, AppDynamics, Ansible.]
     responsibilities: >
@@ -100,6 +110,7 @@ experience:
 
   - title: Digital Insights
     company: National Australia Bank
+    location: Melbourne, Australia
     duration: Jun 2017 – Feb 2018
     skills: [AWS, Ansible, Terraform, Tableau, Zeppelin, Jupiter, AWS Redshift, Cloud formation, JIRA, Confluence, Artifactory, Remedy, Jenkins, R, Python, Spark, Pycharm, AppDynamics, Ansible]
     responsibilities: >
@@ -107,13 +118,15 @@ experience:
 
   - title: Diamond
     company: Telstra
+    location: Melbourne, Australia
     duration: Jul 2014 – Jun 2017
     skills: [Jira, Bamboo, Stash, Confluence, Crowd, Nexus, Puppet, Capistrano, Ansible, Hiera, R10K]
     responsibilities: >
       I played a key role in OS hardening for their on-premises RHEL and Windows environments. Using Puppet Enterprise, Ansible, Bash, and PowerShell, I automated image hardening processes to meet stringent security requirements. I leveraged Bash and Ansible for automating RHEL hardening, including package management, security configurations, and compliance checks. On the Windows side, I used PowerShell and Puppet Enterprise to enforce GPO policies, security baselines, and system integrity checks. By automating these processes, I ensured scalability, repeatability, and compliance across all hardened images.
 
   - title: DevOps Practice Lead - NAB Connect, Mobile & Emerging Technologies
-    company: National Australia Bank (Infosys Australia)
+    company: National Australia Bank (via Infosys Australia)
+    location: Melbourne, Australia
     duration: Nov 2011 – Jul 2014
     skills: [JIRA, Puppet, GitHub, Jenkins, AWS, SonarQube, Artifactory, Eclipse, Gradle, HP ALM, Splunk, IBM WebSphere Application Server, IBM WMQ tool, IBM Tivoli stack & EAI, Jython, JACL, ANT, Cruisecontrol, Control-M, Artifactory]
     responsibilities: >
