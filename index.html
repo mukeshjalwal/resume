@@ -60,20 +60,23 @@ layout: default
   {% endfor %}
 </ul>
     </section>
-<!-- Professional Experience Section -->
-    <section id="experience" class="section">
-        <h2>Professional Experience</h2>
-        <ul>
-            {% for job in site.data.resume.experience %}
-                <li>
-                    <h3>{{ job.title }}</h3>
-                    <p><strong>{{ job.company }}</strong> - {{ job.location }} ({{ job.duration }})</p>
-                    <p><strong>Responsibilities:</strong> {{ job.responsibilities }}</p>
-                    <p><strong>Tools/Skills:</strong> {{ job.skills | join: ', ' }}
-                    </p>
-                </li>
-            {% endfor %}
-        </ul>
+<!-- Experience Section -->
+<section id="experience" class="section">
+  <h2>Professional Experience</h2>
+  {% assign grouped = site.data.resume.experience | group_by: "company" %}
+  {% for company in grouped %}
+    <div class="experience-block">
+      <h3 class="company-title">{{ company.name }}</h3>
+      {% for role in company.items %}
+        <div class="job">
+          <h4 class="job-title">{{ role.title }}</h4>
+          <p><strong>Location:</strong> {{ role.location }} | <strong>Duration:</strong> {{ role.duration }}</p>
+          <p><strong>Responsibilities:</strong> {{ role.responsibilities }}</p>
+          <p><strong>Tools/Skills:</strong> {{ role.skills | join: ', ' }}</p>
+        </div>
+      {% endfor %}
+    </div>
+  {% endfor %}
 </section>
 
     <!-- Certifications Section -->
