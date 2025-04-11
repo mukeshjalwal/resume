@@ -1,0 +1,160 @@
+name: Mukesh Jalwal
+contact:
+  linkedin: https://www.linkedin.com/in/mukeshjalwal
+  github: https://mukeshjalwal.github.io/great-software-engineer
+summary: >
+  Mukesh is a qualified leader and proficient DevOps and Cloud engineer with skills across multiple environments in Infrastructure and Hosting platforms. 
+  With over 22+ years of experience in the industry, he has worked in the public, private and federal sectors and communicates well across all levels of the business. 
+  He is accomplished in delivering and maintaining resilient systems on time and budget to meet organisational needs. 
+  Mukesh has a passion for technology and for the past 12 years, he has focused on the Azure and AWS Cloud with a particular enthusiasm for Cloud Adoption, Infrastructure as Code, and Automation.
+
+key_skills:
+  - name: Azure
+    skills: [Azure DevOps, CosmosDB, PostgreSQL, Azure CLI, PowerShell, Biceps]
+  - name: AWS 
+    skills: [EC2, VPC, Route53, IAM, RDS, CloudWatch, CloudTrail, CloudFormation, DynamoDB, S3]
+  - name: Security 
+    skills: [Fortigate, F5, AWS WAF]
+  - name: Infrastructure Automation 
+    skills: [CodeBuild, CodePipeline, Jenkins, Terraform, Ansible, Puppet]
+  - name: Systems Administration and Programming
+    skills: [Linux Systems, Shell, Python, GIT]
+  - name: Practices
+    skills: [Continuous Integration, Continuous Delivery, System Analysis, Solution Design, Agile]
+  - name: Other
+    skills: [Technical documentation writing]
+
+accomplishments:
+  - National Cancer Screening Register Migration to Cloud - Telstra Health – Federal
+  - Built monitoring automation framework (Splunk & AppDynamics) – NAB
+  - Cost Optimization Project – TMR (Government)
+  - AWS Security Enhancement – APA Group
+  - Hybrid Cloud Environment – Noumi
+  - MFA Implementation with PingOne – Westpac
+  - MQ Automation with Puppet
+  - NAB recognition awards x2
+
+experience:
+  - company: Versent
+    location: Melbourne, Australia
+    roles:
+      - title: NCSR Migration – Telstra Health – Federal
+        duration: Jan 2024 – Mar 2025
+        skills: [Terraform, Github, Azure DevOps, Azure pipelines, Azure Repos, Site to Site VPN, Transit Gateway, AWS transfer family, AD connector service]
+        responsibilities: >
+          I designed and built secure networking layers...
+
+      - title: Noumi Hybrid Cloud
+        duration: Jul 2023 – Jan 2024
+        skills: [AWS, Active Directory, DNS, VMWare, Site to Site VPN]
+        responsibilities: >
+          In my engagement with Noumi...
+
+      - title: TMR – Government – Cost Optimisations
+        duration: May 2023 – Jul 2023
+        skills: [AWS Billing, Cost Explorer, AWS CLI]
+        responsibilities: >
+          I conducted a comprehensive analysis...
+
+      - title: APA Group Security & CIS Benchmarking
+        duration: Apr 2023
+        skills: [AWS Security, Trust Advisor]
+        responsibilities: >
+          I contributed to the Landing Zone Accelerator initiative...
+
+      - title: MFA implementation with PingOne – Westpac – Banking
+        duration: Jul 2022 – Mar 2023
+        skills: [Ping Access, Ping Federate, Ping Directory, Ping DataSync, PingOne Advanced Services (P1AS), Jenkins, Bitbucket, Vault, CyberArk safe]
+        responsibilities: >
+          Mukesh worked with Identity engineers...
+
+      - title: MQ Transformation @ ANZ
+        duration: Oct 2021 – Jul 2022
+        skills: [Puppet Enterprise, IBM MQ, IBM Sterling Connect Direct, JIRA, Confluence, BitBucket, Solaris, AIX, RedHat]
+        responsibilities: >
+          Led the on-prem automation solution...
+
+  - company: National Australia Bank
+    roles:
+      - title: Digital Access Foundation – IAM
+        location: Melbourne, Australia
+        duration: Mar 2021 – Oct 2021
+        skills: [OAuth, OIDC, FAPI, SAML, LDAP, AWS, Ansible, ...]
+        responsibilities: >
+          Led on-prem to cloud migration...
+
+      - title: Monitoring & Observability (Splunk & AppDynamics)
+        duration: Feb 2018 – Mar 2021
+        skills: [Ansible, Terraform, Splunk, Appdynamics, ...]
+        responsibilities: >
+          I was part of the Observability and Monitoring Team...
+
+      - title: Digital Insights
+        duration: Jun 2017 – Feb 2018
+        skills: [AWS, Ansible, Terraform, Tableau, ...]
+        responsibilities: >
+          I worked with data pipelines...
+
+  - company: Telstra
+    roles:
+      - title: Diamond
+        duration: Jul 2014 – Jun 2017
+        skills: [Jira, Bamboo, Stash, Confluence, ...]
+        responsibilities: >
+          I played a key role in OS hardening...
+
+  - company: National Australia Bank (Infosys Australia)
+    roles:
+      - title: DevOps Practice Lead - NAB Connect
+        duration: Nov 2011 – Jul 2014
+        skills: [JIRA, Puppet, GitHub, Jenkins, ...]
+        responsibilities: >
+          Extensive DevOps and cloud automation experience...
+
+  - company: Computer Associates (Infosys India)
+    location: USA
+    roles:
+      - title: Sr. Developer & Environment Lead
+        duration: Jun 2008 – Nov 2011
+        skills: [C, C++, Clearcase, Citrix, ...]
+        responsibilities: >
+          Certified in CA SiteMinder...
+
+  - company: Rogers Corporation
+    location: Canada
+    roles:
+      - title: Sr. Support Engineer
+        duration: Oct 2006 – Jun 2008
+        skills: [Solaris, Java, HP Quality Centre]
+        responsibilities: >
+          Change management expert...
+
+  - company: Amdocs Development Centre
+    location: Cyprus
+    roles:
+      - title: Sr. Developer
+        duration: Sep 2004 – Sep 2006
+        skills: [C, C++, Linux, Java]
+        responsibilities: >
+          Customized Amdocs billing solutions...
+
+  - company: HCL Technologies Ltd
+    location: Noida, India
+    roles:
+      - title: Developer
+        duration: Jul 2003 – Aug 2004
+        skills: [Linux, C, C++]
+        responsibilities: >
+          Full SDLC development.
+
+education_certifications:
+  - Bachelor of Technology, Computer Science & Engineering – NIT Kurukshetra
+  - Cert IV in Leadership and Management – Swinburne University, Melbourne
+  - AWS Certified Cloud Practitioner
+  - AWS Certified Solutions Architect – Associate
+  - AWS Certified SysOps Administrator – Associate
+  - Microsoft Azure AZ-900 (Fundamentals)
+  - Puppet Practitioner 2016
+  - PingOne Certified – Ping Federate
+  - PingOne Certified – Ping Access
+  - Splunk Fundamentals I and II
