@@ -322,7 +322,7 @@ nav .nav-menu {
   position: absolute;
   left: 0;
   top: 2px;
-  color: #2ca02c; /* green tick */
+  color: #333;
   font-weight: bold;
 }
 
