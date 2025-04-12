@@ -96,7 +96,7 @@ experience:
     company: National Australia Bank
     location: Melbourne, Australia
     duration: Mar 2021 – Oct 2021
-    skills: [OAuth, OIDC, FAPI, SAML, LDAP, AWS, Ansible, ServiceNAB, Rally, Swagger, Kong, Azure, Cloud formation, Confluence, Artifactory, Jenkins, An-sible, AWS RDS, PostgreSQL, PL/SQL, GIT, Selenium, Gradle, Ant, Maven, RDBMS, Active Directory, Oracle Unified Directory, ForgeRock OpenDJ, Ping Directory Services, eTrust/CA Directory]
+    skills: [OAuth, OIDC, FAPI, SAML, LDAP, AWS, Ansible, ServiceNAB, Rally, Swagger, Kong, Azure, Cloud formation, Confluence, Artifactory, Jenkins, An-sible, AWS RDS, PostgreSQL, PL/SQL, GIT, Selenium, Gradle, Ant, Maven, WebLogic, RDBMS, Active Directory, Oracle Unified Directory, ForgeRock OpenDJ, Ping Directory Services, eTrust/CA Directory]
     responsibilities: >
       Led on-prem to cloud migration for NAB’s Identity and Access Management, ensuring seamless security integration using SSL, PKI, Key Management, Firewalls, Networking, and Load Balancing. Led Kong API development and deployment while implementing microservice architecture, API management, and distributed systems concepts. Provided application support for high-impact, high-volume business-critical applications, including participation in a 24/7 support roster.
 
@@ -104,7 +104,7 @@ experience:
     company: National Australia Bank
     location: Melbourne, Australia
     duration: Feb 2018 – Mar 2021
-    skills: [Ansible, Terraform, Splunk, Appdynamics, JIRA, Confluence, Artifactory, Remedy, Jenkins, AppDynamics, Ansible.]
+    skills: [Ansible, Terraform, Splunk, Appdynamics, JIRA, Confluence, Artifactory, Remedy, Jenkins, AppDynamics, Ansible, Secure Coding, SAST, DAST]
     responsibilities: >
       I was part of the Observability and Monitoring Team, where I was responsible for SIEM (Security Information and Event Management) and SOAR (Security Orchestration, Automation, and Response). My role involved automating OS patching and vulnerability discovery and remediation across hundreds of servers, ensuring compliance with security standards. 
 
@@ -120,7 +120,7 @@ experience:
     company: Telstra
     location: Melbourne, Australia
     duration: Jul 2014 – Jun 2017
-    skills: [Jira, Bamboo, Stash, Confluence, Crowd, Nexus, Puppet, Capistrano, Ansible, Hiera, R10K]
+    skills: [Jira, Bamboo, Stash, Confluence, Crowd, Nexus, Puppet, Capistrano, Ansible, Hiera, R10K, Python, Bash, Powershell]
     responsibilities: >
       I played a key role in OS hardening for their on-premises RHEL and Windows environments. Using Puppet Enterprise, Ansible, Bash, and PowerShell, I automated image hardening processes to meet stringent security requirements. I leveraged Bash and Ansible for automating RHEL hardening, including package management, security configurations, and compliance checks. On the Windows side, I used PowerShell and Puppet Enterprise to enforce GPO policies, security baselines, and system integrity checks. By automating these processes, I ensured scalability, repeatability, and compliance across all hardened images.
 
@@ -128,7 +128,7 @@ experience:
     company: National Australia Bank (via Infosys Australia)
     location: Melbourne, Australia
     duration: Nov 2011 – Jul 2014
-    skills: [JIRA, Puppet, GitHub, Jenkins, AWS, SonarQube, Artifactory, Eclipse, Gradle, HP ALM, Splunk, IBM WebSphere Application Server, IBM WMQ tool, IBM Tivoli stack & EAI, Jython, JACL, ANT, Cruisecontrol, Control-M, Artifactory]
+    skills: [JIRA, Puppet, GitHub, Jenkins, AWS, SonarQube, Artifactory, Eclipse, Gradle, HP ALM, Splunk, IBM WebSphere Application Server, IBM WMQ tool, IBM Tivoli stack & EAI, Jython, JACL, ANT, Cruisecontrol, Control-M, Artifactory, Git Flow, SAST, DAST, Code Secure, Maven, WebLogic]
     responsibilities: >
       Extensive DevOps and cloud automation experience, having automated ap-plication builds, packaging, and deployment across DEV/TEST/PROD environments for highly available and scalable applications, such as NAB Connect and Internet Banking. Developed one-click environment provision-ing in AWS, integrating Infrastructure-as-Code principles with version con-trol. Designed and implemented Continuous Integration servers and deploy-ment pipelines for seamless software delivery. Played a key role in migrating source code from ClearCase to Git and automated environment provisioning while enabling auto-scaling capabilities for NAB’s key web applications in AWS.
 
@@ -136,9 +136,9 @@ experience:
     company: Computer Associates (Infosys India)
     location: USA
     duration: Jun 2008 – Nov 2011
-    skills: [C, C++, Clearcase, Citrix, VMWare]
+    skills: [C, C++, Clearcase, Citrix, VMWare, Code Coverage, PureCove]
     responsibilities: >
-      Certified in CA SiteMinder. Built and tested security solutions across multiple platforms.
+      Certified CA SiteMinder in multiple Operating Systems. Built and tested security solutions across multiple platforms.
 
   - title: Sr. Support Engineer
     company: Rogers Corporation

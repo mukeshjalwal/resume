@@ -1,0 +1,193 @@
+/* Base styling for the body */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+}
+
+/* Container for the whole page */
+.container {
+  width: 80%;
+  max-width: 900px;
+  margin: 50px auto;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header styling */
+h1, h2 {
+  color: #2c3e50;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5em;
+  color: #2c3e50;
+}
+
+h2 {
+  margin-top: 40px;
+  border-bottom: 2px solid #2c3e50;
+  padding-bottom: 5px;
+  font-size: 1.8em;
+}
+
+/* Section styling */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin: 10px 0;
+  line-height: 1.6;
+}
+
+/* Styling for links */
+a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Style for skill categories */
+ul > li > strong {
+  font-size: 1.1em;
+  margin-bottom: 5px;
+  display: inline-block;
+  color: #34495e;
+}
+
+/* Skills List */
+ul li ul {
+  margin-left: 20px;
+}
+
+ul li ul li {
+  margin-bottom: 5px;
+  font-size: 1em;
+}
+
+/* Contact Section */
+ul li a {
+  font-weight: bold;
+  color: #2980b9;
+}
+
+/* Education Section */
+ul li {
+  font-size: 1.1em;
+}
+
+/* Footer or additional sections */
+footer {
+  text-align: center;
+  font-size: 1em;
+  color: #7f8c8d;
+  margin-top: 40px;
+}
+
+/* Header for profile with image */
+.header-container {
+  text-align: center;
+  padding: 30px 20px;
+  background-color: #f1f7fb;
+  border-bottom: 2px solid #ddd;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #2ca02c;
+  margin-bottom: 15px;
+}
+
+.subtitle {
+  font-size: 1.1em;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+/* Experience Section Layout */
+.experience-block {
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.05);
+}
+
+.company-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #2c3e50;
+  border-left: 4px solid #ffd700;
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+.job {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+  border-left: 4px solid #ff9800;
+}
+
+.job-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #34495e;
+  margin-bottom: 0.3rem;
+}
+
+.job p {
+  margin: 0.5rem 0;
+  line-height: 1.6;
+}
+
+.job strong {
+  color: #2c3e50;
+}
+
+.job p:last-child {
+  margin-bottom: 0;
+}
+
+/* Responsiveness for mobile */
+@media (max-width: 768px) {
+  .container {
+    padding: 15px;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+
+  .company-title {
+    font-size: 1.3rem;
+  }
+  
+  .job-title {
+    font-size: 1.1rem;
+  }
+
+  .header-container {
+    padding: 20px 10px;
+  }
+}
+
