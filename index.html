@@ -113,12 +113,44 @@ layout: default
     <!-- Contact Section -->
     <section id="contact" class="section">
         <h2>Contact</h2>
+<form
+  action="https://formspree.io/f/mldjzzrj"
+  class="fs-form"
+  target="_top"
+  method="POST"
+>
+  <div class="fs-field">
+    <label class="fs-label" for="name">Name</label>
+    <input class="fs-input" id="name" name="name" type="text" required />
+  </div>
+  <div class="fs-field">
+    <label class="fs-label" for="email">Email Address</label>
+    <input class="fs-input" id="email" name="email" type="email" required />
+  </div>
+  <div class="fs-field">
+    <label class="fs-label" for="number">Phone Number</label>
+    <input class="fs-input" id="number" name="number" type="number" />
+  </div>
+  <div class="fs-field">
+    <label class="fs-label" for="message">Inquiry Message</label>
+    <textarea
+      class="fs-textarea"
+      id="message"
+      name="message"
+      required
+    ></textarea>
+  </div>
+  <div class="fs-button-group">
+    <button class="fs-button" type="submit">Submit</button>
+  </div>
+</form>
+    </section>
+
+    <section>
      <p>If you'd like to connect or discuss further opportunities, feel free to reach out via LinkedIn!</p>
     <strong>LinkedIn:</strong>
     <a href="{{ site.data.resume.contact.linkedin }}" target="_blank">Mukesh Jalwal</a>
-
     </section>
-
     <!-- Footer -->
     <footer>
         <p>&copy; 2025 Mukesh Jalwal. All rights reserved.</p>
