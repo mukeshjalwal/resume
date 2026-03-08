@@ -11,165 +11,317 @@ projects:
     url: https://github.com/mukeshjalwal/DockerKubernetesAzure
     description: Full stack Kubernetes bootcamp.
 
-summary: >
-  Mukesh is a qualified leader and proficient DevOps and Cloud engineer with skills across multiple environments in Infrastructure and Hosting platforms. 
-  With over 22+ years of experience in the industry, he has worked in the public, private and federal sectors and communicates well across all levels of the business. 
-  He is accomplished in delivering and maintaining resilient systems on time and budget to meet organisational needs. 
-  <br><br>Mukesh has a passion for technology and for the past 12 years, he has focused on the Azure and AWS Cloud with a particular enthusiasm for Cloud Adoption, Infrastructure as Code, and Automation.
+professional_summary: >
+  Highly accomplished and qualified leader with over 22 years of experience as a DevOps and Cloud Engineer,
+  specializing in architecting, developing, and deploying end-to-end generative AI and automation solutions
+  for complex enterprise and government environments. For the past 12 years, focused on large-scale cloud
+  adoption, Infrastructure as Code, and advanced automation across Azure and AWS, building consistent,
+  scalable, and maintainable systems. Strong track record of translating complex business requirements into
+  robust technical solutions, leading discovery workshops, and collaborating with technical and
+  non-technical stakeholders. Extensive experience designing secure, resilient, and highly available systems
+  while pioneering emerging technologies such as generative AI initiatives.
 
-key_skills:
-  - name: Azure
-    skills: [Azure DevOps, CosmosDB, PostgreSQL, Azure CLI, PowerShell, Biceps]
-  - name: AWS 
-    skills: [EC2, VPC, Route53, IAM, RDS, CloudWatch, CloudTrail, CloudFormation, DynamoDB, S3]
-  - name: Security 
-    skills: [Fortigate, F5, AWS WAF]
-  - name: Infrastructure Automation 
-    skills: [CodeBuild, CodePipeline, Jenkins, Terraform, Ansible, Puppet]
-  - name: Systems Administration and Programming
-    skills: [Linux Systems, Shell, Python, GIT]
-  - name: Practices
-    skills: [Continuous Integration, Continuous Delivery, System Analysis, Solution Design, Agile]
-  - name: Other
-    skills: [Technical documentation writing]
+core_skills:
 
-accomplishments:
-  - National Cancer Screening Register Migration to Cloud - Telstra Health – Federal
-  - Built monitoring automation framework (Splunk & AppDynamics) – NAB
-  - Cost Optimization Project – TMR (Government)
-  - AWS Security Enhancement – APA Group
-  - Hybrid Cloud Environment – Noumi
-  - MFA Implementation with PingOne – Westpac
-  - MQ Automation with Puppet
-  - NAB recognition awards x2
+  generative_ai_ml:
+    - Gemini
+    - GPT
+    - Claude
+    - Microsoft Copilot
+    - GitHub Copilot
+    - Generative AI Models
+    - Large Language Models
+    - Prompt Engineering
+    - Structured Extraction
+    - Workflow Orchestration
+    - Data Analysis
+    - Algorithm Optimization
+    - ML Architecture Concepts
 
-experience:
-  - title: NCSR Migration – Telstra Health – Federal
-    company: Versent Pty Ltd
+  cloud_platforms:
+    aws:
+      - EC2
+      - VPC
+      - Route53
+      - IAM
+      - RDS
+      - CloudWatch
+      - CloudTrail
+      - CloudFormation
+      - DynamoDB
+      - S3
+      - Transfer Family
+      - Cost Explorer
+      - Trusted Advisor
+    azure:
+      - Azure DevOps
+      - CosmosDB
+      - PostgreSQL
+      - Azure CLI
+      - PowerShell
+      - Bicep
+      - Backup
+      - Disaster Recovery
+      - Azure Pipelines
+      - Azure Repos
+    gcp:
+      - Google Cloud Platform
+
+  automation_devops:
+    - Terraform
+    - Ansible
+    - Puppet
+    - Jenkins
+    - CodeBuild
+    - CodePipeline
+    - GitLab
+    - Azure DevOps
+    - CI/CD
+    - Infrastructure as Code
+    - Git
+    - Shell Scripting
+
+  programming:
+    - Python
+    - PowerShell
+    - Bash
+    - C
+    - C++
+    - Java
+    - Jython
+    - JACL
+    - ANT
+
+  integrations_apis:
+    - APIs
+    - Webhooks
+    - SaaS integrations
+    - Microservice architecture
+    - Distributed systems
+    - Service mesh
+    - Site-to-site VPN
+    - Transit Gateway
+
+  security_compliance:
+    - Fortigate
+    - F5 ASM
+    - AWS WAF
+    - NSGs
+    - ASGs
+    - SSL
+    - PKI
+    - Key Management
+    - Firewalls
+    - CIS Compliance
+    - IRAP Assessment
+    - ATO
+    - SIEM
+    - SOAR
+    - Vulnerability Remediation
+
+  databases_data:
+    - CosmosDB
+    - PostgreSQL
+    - DynamoDB
+    - S3
+    - AWS RDS
+    - Oracle Unified Directory
+    - ForgeRock OpenDJ
+    - Ping Directory Services
+    - eTrust CA Directory
+    - Splunk
+    - AppDynamics
+    - Tableau
+    - Zeppelin
+    - Jupyter
+    - AWS Redshift
+
+  practices:
+    - Solution Design
+    - System Analysis
+    - Agile Methodologies
+    - Technical Documentation
+    - Stakeholder Management
+    - Client Enablement
+    - Business Analysis
+
+professional_experience:
+
+  - company: Australia Post
     location: Melbourne, Australia
-    duration: Jan 2024 – Mar 2025
-    skills: [Terraform, Github, Azure DevOps, Azure pipelines, Azure Repos, Site to Site VPN, Transit Gateway, AWS transfer family, AD connector service]
-    responsibilities: >
-      I designed and built secure networking layers in a highly regulated cloud environment, adhering to IRAP assessment requirements prior to the agreement to operate (ATO). My key deliverables included implementing isolated virtual networks for different workloads, configuring firewalls, and integrating essential security tools such as image hardening, ingress/egress protection, and strict routing policies. I provisioned F5 ASM, FortiGate, and WAF tools to enhance security, further locking down traffic using NSGs and ASGs. All these solutions were deployed using Infrastructure-as-Code (IaC) with Terraform and automated through Azure DevOps, ensuring compliance, scalability, and operational efficiency.
+    roles:
 
-  - title: Noumi Hybrid Cloud
-    company: Versent Pty Ltd
+      - title: DevOps Engineer
+        period: Apr 2025 – Jan 2026
+        responsibilities:
+          - Spearheaded generative AI pilot exploring Gemini, Claude, ChatGPT, GitHub Copilot, and Microsoft Copilot.
+          - Presented architectural insights to the Super Community of Practice to guide AI strategy.
+          - Architected scalable multi-cloud platform across AWS, Azure, and GCP.
+          - Provided 24x7 operational support for mission-critical systems.
+          - Implemented Terraform Infrastructure as Code and GitLab CI/CD standards.
+          - Developed service mesh capabilities for secure microservice communication.
+          - Maintained strong governance, security, and compliance standards.
+          - Led stakeholder engagement to align platform roadmap with strategic goals.
+
+  - company: Versent
     location: Melbourne, Australia
-    duration: Jul 2023 – Jan 2024
-    skills: [AWS, Active Directory, DNS, VMWare, Site to Site VPN]
-    responsibilities: >
-      In my engagement with Noumi, I played a key role in extending their on-premises data center to the cloud, enabling a seamless hybrid cloud model. I extended their existing Active Directory (AD) to the cloud with synchronous replication, ensuring consistent identity and access management across envi-ronments. Additionally, I implemented secure DNS management to maintain reliable name resolution. To facilitate a smooth data transition, I leveraged AWS native cloud migration services and data migration tools, including in-stalling agents on-premises to discover and migrate workloads efficiently. My approach ensured minimal downtime, secure data transfer, and a scalable hybrid cloud infrastructure aligned with business needs.
+    roles:
 
-  - title: TMR (Department of Transport and Main Roads) – Government – Cost Optimisations
-    company: Versent Pty Ltd
+      - title: Lead Engineer
+        period: Jan 2024 – Apr 2025
+        responsibilities:
+          - Designed secure cloud networking architectures in regulated environments.
+          - Implemented F5 ASM, Fortigate, and AWS WAF security solutions.
+          - Created segmented virtual networks for workload isolation.
+          - Automated deployments using Terraform and Azure DevOps pipelines.
+          - Implemented hardened images aligned with security baselines.
+
+      - title: Lead Engineer
+        period: Jul 2023 – Jan 2024
+        responsibilities:
+          - Extended on-premise infrastructure to hybrid AWS cloud environment.
+          - Implemented Active Directory replication to the cloud.
+          - Implemented resilient DNS architecture.
+          - Migrated workloads using AWS migration tools.
+
+      - title: Lead Engineer
+        period: May 2023 – Jul 2023
+        responsibilities:
+          - Conducted AWS cost optimization for TMR.
+          - Identified unused resources using AWS Cost Explorer.
+          - Implemented rightsizing and decommissioning strategies.
+          - Recommended reserved instance and autoscaling improvements.
+
+      - title: Lead Engineer
+        period: Apr 2023 – Apr 2023
+        responsibilities:
+          - Contributed to APA Group Landing Zone Accelerator.
+          - Automated provisioning of networking, security, IAM, and governance.
+          - Implemented CIS benchmark compliance.
+          - Produced architecture documentation and SOPs.
+
+      - title: Lead Identity Engineer
+        period: Jul 2022 – Mar 2023
+        responsibilities:
+          - Implemented PingOne MFA solution for Westpac banking application.
+          - Collaborated across security and engineering teams.
+          - Delivered documentation and operational handover.
+
+      - title: Lead DevOps Engineer
+        period: Oct 2021 – Jul 2022
+        responsibilities:
+          - Led IBM MQ automation transformation for ANZ.
+          - Implemented Puppet automation across servers.
+          - Refactored shell scripts for modern automation standards.
+          - Collaborated across Unix and infrastructure teams.
+
+  - company: National Australia Bank
     location: Melbourne, Australia
-    duration: May 2023 – Jul 2023
-    skills: [AWS Billing, Cost Explorer, AWS CLI]
-    responsibilities: >
-      I conducted a comprehensive analysis of cloud resource utilisation to identify cost-saving opportunities. Using AWS native tools such as Cost Explorer and AWS Billing, I detected unutilised capacities, over-provisioned resources, and outdated backups consuming unnecessary storage. By implementing rightsizing strategies, decommissioning idle instances, and optimizing storage allocation, I successfully reduced cloud expenditure while maintaining operational efficiency. Additionally, I provided recommendations on reserved instances and auto-scaling configurations to further enhance cost efficiency without compromising.
+    roles:
 
-  - title: APA Group Security & CIS Benchmarking
-    company: Versent Pty Ltd
+      - title: Sr. DevOps Analyst
+        period: Mar 2021 – Oct 2021
+        responsibilities:
+          - Migrated IAM Digital Access Foundation platform to cloud.
+          - Implemented PKI, SSL, firewalls, and networking security.
+          - Built microservice architecture and API gateway platform.
+          - Supported critical banking systems with 24/7 availability.
+
+      - title: Sr. DevOps Analyst
+        period: Feb 2018 – Mar 2021
+        responsibilities:
+          - Designed SIEM and SOAR security automation.
+          - Automated OS patching across hundreds of servers.
+          - Built vulnerability remediation workflows.
+          - Enhanced security logging and monitoring.
+
+      - title: Sr. DevOps Analyst
+        period: Jun 2017 – Feb 2018
+        responsibilities:
+          - Built enterprise data pipelines for analytics platforms.
+          - Enabled machine learning data environments.
+          - Designed DEV, TEST, UAT, and PREPROD environments.
+
+  - company: Telstra
     location: Melbourne, Australia
-    duration: Apr 2023
-    skills: [AWS Security, Trust Advisor]
-    responsibilities: >
-      I contributed to the Landing Zone Accelerator initiative, where I automated cloud setup steps, enabling a rapid and secure cloud environment. My work involved:Automating the provisioning of networking, security controls, IAM policies, and governance frameworks using Terraform and Azure DevOps. Ensuring compliance with security best practices by enforcing CIS bench-marks and cloud security standards. Developing technical documentation, build guides, and standard operating procedures (SOPs) to ensure main-tainability and operational consistency.
+    roles:
 
-  - title: MFA implementation with PingOne – Westpac – Banking
-    company: Versent Pty Ltd
+      - title: Product Verification Device Manager (DevOps)
+        period: Jul 2014 – Jun 2017
+        responsibilities:
+          - Led OS hardening initiatives for Linux and Windows.
+          - Automated system hardening with Puppet, Ansible, and Bash.
+          - Implemented secure authentication and MFA.
+          - Automated compliance and patching processes.
+
+  - company: National Australia Bank (Infosys Australia)
     location: Melbourne, Australia
-    duration: Jul 2022 – Mar 2023
-    skills: [Ping Access, Ping Federate, Ping Directory, Ping DataSync, PingOne Advanced Services (P1AS), Jenkins, Bitbucket, Vault, CyberArk safe]
-    responsibilities: >
-      Mukesh worked with Identity engineers to implement a PingOne solution for the bank to provide MFA services for a banking application. Strict security re-quirements within the bank required stakeholder engagement to meet the bank’s requirements while also delivering a working product. Mukesh worked with the Cloud, DevOps and Security teams, as well as with AWS engineers, to deploy and test the platform, as well as providing handover sessions and documentation.
+    roles:
 
-  - title: MQ Transformation @ ANZ
-    company: Versent Pty Ltd
-    location: Melbourne, Australia
-    duration: Oct 2021 – Jul 2022
-    skills: [Puppet Enterprise, IBM MQ, IBM Sterling Connect Direct, JIRA, Confluence, BitBucket, Solaris, AIX, RedHat]
-    responsibilities: >
-      Led the on-prem automation solution for the IBM MQ Transformation Project, streamlining processes across ANZ’s infrastructure. Designed and implemented Puppet-based automation for the seamless upgrade, downgrade, and installation of IBM MQ tools across hundreds of on-prem servers. Refactored and optimized existing shell scripts to align with modern standards, enhancing system efficiency. Collaborated closely with Unix, API Mesh, and Transporter teams, as well as senior management, ensuring seamless integration. Executed functional and non-functional test cases to validate and optimize ANZ’s infrastructure performance.
+      - title: DevOps Practice Lead
+        period: Nov 2011 – Jul 2014
+        responsibilities:
+          - Automated application builds and deployments across environments.
+          - Implemented Infrastructure as Code provisioning in AWS.
+          - Designed CI/CD pipelines and deployment automation.
+          - Migrated source control from ClearCase to Git.
 
-  - title: Digital Access Foundation (NAB’s Identity and Access Management)
-    company: National Australia Bank
-    location: Melbourne, Australia
-    duration: Mar 2021 – Oct 2021
-    skills: [OAuth, OIDC, FAPI, SAML, LDAP, AWS, Ansible, ServiceNAB, Rally, Swagger, Kong, Azure, Cloud formation, Confluence, Artifactory, Jenkins, An-sible, AWS RDS, PostgreSQL, PL/SQL, GIT, Selenium, Gradle, Ant, Maven, WebLogic, RDBMS, Active Directory, Oracle Unified Directory, ForgeRock OpenDJ, Ping Directory Services, eTrust/CA Directory]
-    responsibilities: >
-      Led on-prem to cloud migration for NAB’s Identity and Access Management, ensuring seamless security integration using SSL, PKI, Key Management, Firewalls, Networking, and Load Balancing. Led Kong API development and deployment while implementing microservice architecture, API management, and distributed systems concepts. Provided application support for high-impact, high-volume business-critical applications, including participation in a 24/7 support roster.
+      - title: Various Senior Developer Roles
+        period: Jul 2003 – Nov 2011
+        responsibilities:
+          - Developed enterprise applications in C, C++, and Java.
+          - Worked with ClearCase, Ant, Citrix, VMware, Cisco routers, and NetApp.
 
-  - title: Monitoring & Observability (Splunk & AppDynamics)
-    company: National Australia Bank
-    location: Melbourne, Australia
-    duration: Feb 2018 – Mar 2021
-    skills: [Ansible, Terraform, Splunk, Appdynamics, JIRA, Confluence, Artifactory, Remedy, Jenkins, AppDynamics, Ansible, Secure Coding, SAST, DAST]
-    responsibilities: >
-      I was part of the Observability and Monitoring Team, where I was responsible for SIEM (Security Information and Event Management) and SOAR (Security Orchestration, Automation, and Response). My role involved automating OS patching and vulnerability discovery and remediation across hundreds of servers, ensuring compliance with security standards. 
-
-  - title: Digital Insights
-    company: National Australia Bank
-    location: Melbourne, Australia
-    duration: Jun 2017 – Feb 2018
-    skills: [AWS, Ansible, Terraform, Tableau, Zeppelin, Jupiter, AWS Redshift, Cloud formation, JIRA, Confluence, Artifactory, Remedy, Jenkins, R, Python, Spark, Pycharm, AppDynamics, Ansible]
-    responsibilities: >
-      I worked with data pipelines that ensured data ETL and real-time capabilities, seamlessly ingesting data from diverse sources such as GDW, Teradata, Adobe Analytics, NAB Connect, and Internet Banking. To enhance data modeling and machine learning applications, I Used Zeppelin, Jupyter, and Redshift, providing data scientists with the tools needed for on-demand analysis and strategic insights. Additionally, I helped creating the design and implementation of DEV, TEST, UAT, and PREPROD environments, streamlining feature rollouts, enhancements, and bug fixes with a structured release process. Furthermore, I collaborated closely with Data Engineers, Data Scientists, and PhD scholars, fostering innovation and driving the development of world-class automation solutions for analytics platforms.
-
-  - title: Diamond
-    company: Telstra
-    location: Melbourne, Australia
-    duration: Jul 2014 – Jun 2017
-    skills: [Jira, Bamboo, Stash, Confluence, Crowd, Nexus, Puppet, Capistrano, Ansible, Hiera, R10K, Python, Bash, Powershell]
-    responsibilities: >
-      I played a key role in OS hardening for their on-premises RHEL and Windows environments. Using Puppet Enterprise, Ansible, Bash, and PowerShell, I automated image hardening processes to meet stringent security requirements. I leveraged Bash and Ansible for automating RHEL hardening, including package management, security configurations, and compliance checks. On the Windows side, I used PowerShell and Puppet Enterprise to enforce GPO policies, security baselines, and system integrity checks. By automating these processes, I ensured scalability, repeatability, and compliance across all hardened images.
-
-  - title: DevOps Practice Lead - NAB Connect, Mobile & Emerging Technologies
-    company: National Australia Bank (via Infosys Australia)
-    location: Melbourne, Australia
-    duration: Nov 2011 – Jul 2014
-    skills: [JIRA, Puppet, GitHub, Jenkins, AWS, SonarQube, Artifactory, Eclipse, Gradle, HP ALM, Splunk, IBM WebSphere Application Server, IBM WMQ tool, IBM Tivoli stack & EAI, Jython, JACL, ANT, Cruisecontrol, Control-M, Artifactory, Git Flow, SAST, DAST, Code Secure, Maven, WebLogic]
-    responsibilities: >
-      Extensive DevOps and cloud automation experience, having automated ap-plication builds, packaging, and deployment across DEV/TEST/PROD environments for highly available and scalable applications, such as NAB Connect and Internet Banking. Developed one-click environment provision-ing in AWS, integrating Infrastructure-as-Code principles with version con-trol. Designed and implemented Continuous Integration servers and deploy-ment pipelines for seamless software delivery. Played a key role in migrating source code from ClearCase to Git and automated environment provisioning while enabling auto-scaling capabilities for NAB’s key web applications in AWS.
-
-  - title: Sr. Developer & Environment Lead
-    company: Computer Associates (Infosys India)
-    location: USA
-    duration: Jun 2008 – Nov 2011
-    skills: [C, C++, Clearcase, Citrix, VMWare, Code Coverage, PureCove]
-    responsibilities: >
-      Certified CA SiteMinder in multiple Operating Systems. Built and tested security solutions across multiple platforms.
-
-  - title: Sr. Support Engineer
-    company: Rogers Corporation
-    location: Canada
-    duration: Oct 2006 – Jun 2008
-    skills: [Solaris, Java, HP Quality Centre]
-    responsibilities: >
-      Change management expert, HP certified, IT service management specialist.
-
-  - title: Sr. Developer
-    company: Amdocs Development Centre
-    location: Cyprus
-    duration: Sep 2004 – Sep 2006
-    skills: [C, C++, Linux, Java]
-    responsibilities: >
-      Customized Amdocs billing solutions for telecom clients in NA.
-
-  - title: Developer
-    company: HCL Technologies Ltd
-    location: Noida, India
-    duration: Jul 2003 – Aug 2004
-    skills: [Linux, C, C++]
-    responsibilities: Full SDLC development.
-education_certifications:
-  - Bachelor of Technology, Computer Science & Engineering – NIT Kurukshetra
-  - Cert IV in Leadership and Management – Swinburne University, Melbourne
+certifications:
+  - Australian Citizen
+  - NV1 Clearance
   - AWS Certified Cloud Practitioner
   - AWS Certified Solutions Architect – Associate
   - AWS Certified SysOps Administrator – Associate
-  - Microsoft Azure AZ-900 (Fundamentals)
-  - Puppet Practitioner 2016
-  - PingOne Certified – Ping Federate
-  - PingOne Certified – Ping Access
+  - Azure Certified Fundamentals AZ-900
+  - PingOne Certified Professional – Ping Federate
+  - PingOne Certified Professional – Ping Access
   - Splunk Fundamentals I and II
+  - Puppet Practitioner 2016
+  - Cert IV in Leadership and Management – Swinburne University
+
+education:
+  degree: Bachelor of Technology
+  field: Computer Science and Engineering
+
+additional_technical_expertise:
+
+  operating_systems:
+    - Linux (RedHat, Solaris, AIX)
+    - Windows
+
+  networking:
+    - VPN
+    - Transit Gateway
+    - Firewalls
+    - Load Balancing
+    - DNS
+
+  security_tools:
+    - F5
+    - Fortigate
+    - AWS WAF
+    - NSGs
+    - ASGs
+    - CyberArk Safe
+    - Vault
+
+  monitoring_observability:
+    - Splunk
+    - AppDynamics
+    - CloudWatch
+    - Prometheus
+
+  collaboration_tools:
+    - JIRA
+    - Confluence
+    - Rally
+    - ServiceNAB
+    - Remedy
+    - Bitbucket
+    - GitHub
