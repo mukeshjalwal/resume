@@ -1,15 +1,5 @@
 name: Mukesh Jalwal
-contact:
-  linkedin: https://www.linkedin.com/in/mukeshjalwal
-  github: https://mukeshjalwal.github.io/great-software-engineer
-
-projects:
-  - name: Containers
-    url: https://mukeshjalwal.github.io/great-software-engineer
-    description: Full stack container bootcamp.
-  - name: Kubernetes
-    url: https://github.com/mukeshjalwal/DockerKubernetesAzure
-    description: Full stack Kubernetes bootcamp.
+linkedin: https://www.linkedin.com/in/mukeshjalwal
 
 professional_summary: >
   Highly accomplished and qualified leader with over 22 years of experience as a DevOps and Cloud Engineer,
